@@ -1,0 +1,37 @@
+/* write a style for the header: with a black background with white text */
+/*
+header {
+    background-color: black;
+    color: white;
+}*/
+/* style for p with text color #CCbb99 */
+/* p {
+    color: #CCbb99;
+} */
+/* style for class .enlace-redsocial with color yellow */
+.enlace-redsocial {
+    color: yellow;
+}
+/* style for class .enlace-redsocial:hover with color red */
+.enlace-redsocial:hover {
+    color: red;
+}
+/* style for id #imagen-principal with border 2px radious green*/
+#imagen-principal {
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+/* write me a very fancy style for p */
+p {
+    font-size: 2em;
+    font-family: "Comic Sans MS";
+    color: #CCbb99;
+}
+/* make me a cool ass header */
+header {
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-family: "Comic Sans MS";
+}
